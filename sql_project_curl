@@ -1,0 +1,13 @@
+
+
+job-server-extras/reStart
+
+curl -d "" "localhost:8090/contexts/spark-context?num-cpu-cores&memory-per-node=512m"
+
+curl -d "sql = 'Select * from tabel'" "localhost:8090/jobs?appName=test&classPath=sql&context=spark-context&sync=true"
+
+
+curl -d 'filename = "/home/dharmendra/Downloads/Datasets/weather.parquet", timeColumn="ts"' "localhost:8090/jobs?appName=test&classPath=multipara&context=spark-context&sync=true"
+
+
+curl -d " " "localhost:8090/jobs?appName=test&classPath=sql&context=spark-context&sync=true"

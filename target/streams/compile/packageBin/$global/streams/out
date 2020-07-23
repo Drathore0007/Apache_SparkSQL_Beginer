@@ -1,0 +1,29 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/dharmendra/Desktop/scala_ideaj/spark_sql/target/scala-2.11/sql-jar_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sql$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharmendra/Desktop/scala_ideaj/spark_sql/target/scala-2.11/classes/sql$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaPython.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharmendra/Desktop/scala_ideaj/spark_sql/target/scala-2.11/classes/ScalaPython.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountExample$$anonfun$validate$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharmendra/Desktop/scala_ideaj/spark_sql/target/scala-2.11/classes/WordCountExample$$anonfun$validate$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaPython$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharmendra/Desktop/scala_ideaj/spark_sql/target/scala-2.11/classes/ScalaPython$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaPython$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharmendra/Desktop/scala_ideaj/spark_sql/target/scala-2.11/classes/ScalaPython$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountExample$$anonfun$validate$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharmendra/Desktop/scala_ideaj/spark_sql/target/scala-2.11/classes/WordCountExample$$anonfun$validate$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharmendra/Desktop/scala_ideaj/spark_sql/target/scala-2.11/classes/WordCountExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaPython$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharmendra/Desktop/scala_ideaj/spark_sql/target/scala-2.11/classes/ScalaPython$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountExample$$anonfun$validate$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharmendra/Desktop/scala_ideaj/spark_sql/target/scala-2.11/classes/WordCountExample$$anonfun$validate$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharmendra/Desktop/scala_ideaj/spark_sql/target/scala-2.11/classes/WordCountExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaPython$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharmendra/Desktop/scala_ideaj/spark_sql/target/scala-2.11/classes/ScalaPython$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sql$$anonfun$runJob$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharmendra/Desktop/scala_ideaj/spark_sql/target/scala-2.11/classes/sql$$anonfun$runJob$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sql.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharmendra/Desktop/scala_ideaj/spark_sql/target/scala-2.11/classes/sql.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
